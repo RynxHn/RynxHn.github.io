@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; LttStore</title>
+	<atom:link href="http://rynxhn.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://rynxhn.github.io</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Oct 2022 08:33:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>RTX 4080 vs RTX 3080</title>
+		<link>http://rynxhn.github.io/2022/10/08/rtx/</link>
+					<comments>http://rynxhn.github.io/2022/10/08/rtx/#respond</comments>
+		
+		<dc:creator><![CDATA[rynx]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 07:41:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rynxhn.github.io/?p=115</guid>
+
+					<description><![CDATA[Nvidia đã chính thức ra mắt dòng GPU mới RTX 4000 series, và RTX 4080...<div class="multi-store-site-button"><a href="http://rynxhn.github.io/2022/10/08/rtx/" class="multi-store-primary-button">Read More <i class="fa fa-long-arrow-right"></i></a></div>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Nvidia đã chính thức ra mắt dòng GPU mới RTX 4000 series, và RTX 4080 đã được lựa chọn làm sản phẩm tiên phong cùng với RTX 4090. Sức mạnh của RTX 4080 đương nhiên vượt trội hơn hẳn so với RTX 3080, tuy nhiên xét về những yếu tố khác như giá cả hay điện năng tiêu thụ, liệu GPU mới của dòng Ada Lovelace có đủ hấp dẫn để người dùng xuống tiền?</em></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/RTX%204080%20vs%20RTX%203080/4.png" alt=""/></figure>
+
+
+
+<p><strong>GIÁ CẢ VÀ ĐỘ SẴN CÓ</strong></p>
+
+
+
+<p><strong>RTX 3080</strong> ra mắt vào ngày 17/9/2020 với giá niêm yết <strong>700 USD</strong>. Tuy nhiên, trên thực tế RTX 3080 luôn được bán với giá đắt hơn nhiều do cơn khan hiếm card đồ họa trong suốt 2 năm qua. Giờ đây khi thị trường<strong> GPU</strong> dần lấy lại cân bằng, giá thị trường của <strong>RTX 3080</strong> đang dao động trong khoảng<strong> 750 USD</strong> và có thể sẽ còn xuống thấp hơn sau khi <strong>RTX 4000 series</strong> được ra mắt.</p>
+
+
+
+<p><strong>RTX 4080</strong> vừa có màn ra mắt trong sự kiện GTC Keynote của <strong>Nvidia</strong> hôm 20/9 vừa rồi. Và mặc dù chưa tiết lộ ngày mở bán chính thức nhưng đội Xanh cũng úp mở rằng RTX 4080 sẽ lên kệ vào tháng 11 tới đây. RTX 4080 sẽ có hai phiên bản <strong>12GB</strong> và <strong>16GB</strong> với giá niêm yết lần lượt là <strong>900 USD</strong> và <strong>1200 USD</strong>. Đương nhiên trong thời đầu mở bán, giá thị trường của chiếc card đồ họa mới này sẽ còn tăng cao hơn nữa.</p>
+
+
+
+<p>Giống như RTX 4080, GPU tiền nhiệm RTX 3080 cũng có một phiên bản nâng cấp với bộ nhớ 12GB (bản thường có bộ nhớ 10GB) và dược bán với giá 800-900 USD trên thị trường ở thời điểm hiện tại.</p>
+
+
+
+<p>Về mặt giá cả, rõ ràng RTX 3080 có lợi thế hơn trong ngắn hạn khi giá thành rẻ hơn và có xu hướng giảm, trong khi RTX 4080 có khả năng sẽ tăng giá sau khi mở bán. Tuy nhiên về dài hạn, cần phải xem xem liệu RTX 4080 có nhanh chóng tìm được điểm cân bằng cung cầu và hạ giá bán hay không.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/RTX%204080%20vs%20RTX%203080/3.png" alt=""/></figure>
+
+
+
+<p><strong>THÔNG SỐ KỸ THUẬT</strong></p>
+
+
+
+<p>Đương nhiên RTX 4080 sẽ vượt trội hơn hẳn so với RTX 3080 về mặt thông số. Số lượng nhân của dòng GPU mới tăng lên rất nhiều so với đời tiền nhiệm, tuy nhiên điểm nhấn nằm ở mức xung nhịp. RTX 4080 đạt mức xung cao hơn tới 800 MHz so với RTX 3080, đồng thời lại được sản xuất theo quy trình <strong>5nm</strong> của <strong>TSMC</strong>.</p>
+
+
+
+<p>Xét một cách công bằng, quy trình 8nm của Samsung đã làm nên một cuộc cách mạng với dòng GPU Ampere của Nvidia. Tuy nhiên quy trình 5nm của TSMC còn mạnh hơn khi có thể cung cấp nhiều năng lượng hơn so với quy trình 8nm của Samsung trên cùng một đơn vị diện tích. Chính vì vậy, khoảng cách thực tế giữa sức mạnh của RTX 4080 và RTX 3080 có thể còn lớn hơn trên lý thuyết nhiều.</p>
+
+
+
+<p>Mặt khác, bất chấp những tin đồn trước ngày ra mắt nhưng mức điện năng tiêu thụ của RTX 4080 không tăng lên nhiều so với đời tiền nhiệm. Thậm chí mức TDP của phiên bản 12GB còn giảm đáng kể xuống mức 285W. Trong bối cảnh TDP của các dòng card đồ họa mới liên tục tăng lên như hiện tại, việc RTX 4080 giảm mức tiêu thụ điện xuống quả thực là một điểm cộng lớn.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/RTX%204080%20vs%20RTX%203080/1.png" alt=""/></figure>
+
+
+
+<p>Chỉ có một thông số mà người dùng cần phải lăn tăn khi nâng cấp lên RTX 4000 series, đó chính là băng thông bộ nhớ. Nvidia vẫn giữ nguyên bộ nhớ GDDR6X, tuy nhiên họ lại cắt giẩm chiều rộng bus bộ nhớ và tăng dung lượng lên, điều đã được thử nghiệm trước đây trên RTX 3060. Với những dòng card hàng đầu như RTX 4080 hay<strong> RTX 4090</strong>, băng thông hẹp đi không phải là trở ngại quá lớn, tuy nhiên với những dòng RTX 4000 series thấp hơn thì đó có thể là điều đáng lưu ý.</p>
+
+
+
+<p><strong>HIỆU NĂNG DỰ KIẾN</strong></p>
+
+
+
+<p>Nvidia chưa chia sẻ quá nhiều về hiệu năng của RTX 4080 mà chỉ tiết lộ rằng GPU mới sẽ nhanh hơn 2-4 lần so với <strong>RTX 3080 Ti</strong>. Bản thân RTX 3080 Ti đã nhanh hơn khoảng 10-15% so với RTX 3080, vì vậy có thể nói sức mạnh của RTX 4080 là hoàn toàn áp đảo so vơi RTX 3080.</p>
+
+
+
+<p>Tuy nhiên, cũng cần phải nhấn mạnh thêm rằng RTX 4080 được trang bị những công nghệ tiên tiến hơn nhiều so với RTX 3080. Hai công nghệ tiêu biểu nhất chính là <strong>DLSS 3</strong> và <strong>Shader Execution Reordering (SER)</strong>. So với <strong>DLSS 2</strong>, <strong>DLSS 3</strong> thực sự có khả năng dự đoán các khung hình. Một số khung hình trong game được <strong>DLSS 3</strong> tạo ra ngay cả khi GPU chưa hiển thị một pixel nào. Trong khi đó, công nghệ mới <strong>SER</strong> sẽ ưu tiên các thuật toán ray tracing dựa vào những thông số về tài nguyên PC, qua đó tăng cường hiệu năng ray tracing.</p>
+
+
+
+<p>Nếu như RTX 4080 được hỗ trợ DLSS 3 và SER thì việc nó có hiệu năng gấp 2-4 lần so với RTX 3080 Ti cũng là điều dễ hiểu. Tuy nhiên nếu kết quả mà Nvidia công bố chỉ là hiệu năng thô của RTX 4080 thì thực sự GPU mới của đội Xanh đang sở hữu một sức mạnh đáng nể.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/RTX%204080%20vs%20RTX%203080/2.png" alt=""/></figure>
+
+
+
+<p><strong>KẾT LẠI</strong></p>
+
+
+
+<p>Mặc dù RTX 4080 cho thấy sự vượt trội hoàn toàn về hiệu năng so với RTX 3080, tuy nhiên điều đó đi kèm với một mức tăng giá khá nhiều. Người dùng phải chi thêm<strong> 200 USD</strong> trên giá niêm yết, và nếu tính cả giá thị trường tăng lên sau khi RTX 4080 mở bán thì người dùng có thể phải trả thêm một khoản <strong>500 USD</strong> nữa.</p>
+
+
+
+<p>Việc tăng giá là điều gần như hiển nhiên, trong khi hiệu năng của RTX 4080 lại chưa được kiểm chứng rõ ràng. Nếu như các bài test benchmark cho thấy sức mạnh của RTX 4080 thực sự đáng nể và giá của GPU mới này hạ nhiệt trong vài tháng tới, đó có thể là lúc anh em cân nhắc xuống tiền. Còn ở thời điểm hiện tại, có lẽ RTX 3080 vẫn là một lựa chọn an toàn và kinh tế hơn.</p>
+
+
+
+<p>Đừng quên ghé thăm <a href="https://www.tncstore.vn/tin-tuc"><strong>TNC News</strong></a> để cập nhật tin tức và những mẹo bổ ích về các sản phẩm công nghệ nhé!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://rynxhn.github.io/2022/10/08/rtx/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xung nhịp 5.8 GHz, hiệu năng cực khủng: Tất tần tật mọi thứ cần biết về Intel Raptor Lake!</title>
+		<link>http://rynxhn.github.io/2022/10/08/xung-nhip-5-8-ghz-hieu-nang-cuc-khung-tat-tan-tat-moi-thu-can-biet-ve-intel-raptor-lake/</link>
+					<comments>http://rynxhn.github.io/2022/10/08/xung-nhip-5-8-ghz-hieu-nang-cuc-khung-tat-tan-tat-moi-thu-can-biet-ve-intel-raptor-lake/#respond</comments>
+		
+		<dc:creator><![CDATA[rynx]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 07:20:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rynxhn.github.io/?p=113</guid>
+
+					<description><![CDATA[Sau rất nhiều chờ đợi, cuối cùng Intel Raptor Lake cũng đã chính thức ra...<div class="multi-store-site-button"><a href="http://rynxhn.github.io/2022/10/08/xung-nhip-5-8-ghz-hieu-nang-cuc-khung-tat-tan-tat-moi-thu-can-biet-ve-intel-raptor-lake/" class="multi-store-primary-button">Read More <i class="fa fa-long-arrow-right"></i></a></div>]]></description>
+										<content:encoded><![CDATA[
+<p><em>Sau rất nhiều chờ đợi, cuối cùng <strong>Intel Raptor Lake</strong> cũng đã chính thức ra mắt công chúng vào ngày 27/9 vừa rồi với 6 mẫu SKU đầu tiên. Không nằm ngoài dự đoán, Raptor Lake đã thể hiện sức mạnh vượt trội so với dòng chip <strong>Alder Lake</strong> và hứa hẹn sẽ lại là một dòng sản phẩm thành công nữa của <strong>đội Xanh</strong>.</em></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/6.png" alt=""/></figure>
+
+
+
+<p><strong>GIÁ BÁN VÀ NGÀY MỞ BÁN</strong></p>
+
+
+
+<p>Những con chip Raptor Lake đầu tiên sẽ được bày bán vào ngày 20/10 tới đây. <strong>Intel</strong> cho biết bộ vi xử lý thế hệ 13 của mình sẽ bao gồm tổng cộng 22 sản phẩm trong <strong>lineup</strong> và 6 trong số đó sẽ lên kệ vào ngày 20/10. Như thường lệ, Intel sẽ phát hành sản phẩm trên cả 3 phân khúc là <strong>Core i5</strong>, <strong>Core i7</strong> và<strong> Core i9</strong>, cùng với đó là những phiên bản <strong>KF</strong> không có card đồ họa tích hợp.</p>
+
+
+
+<p>Dưới đây là danh sách các <strong>CPU Raptor Lake</strong> được mở bán trong tháng sau:</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; <strong>Core i9-13900K</strong> &#8211; $ 590</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp;<strong>Core i9-13900KF</strong> &#8211; $ 564</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp;<strong>Core i7-13700K</strong> &#8211; $ 410</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; <strong>Core i7-13700KF</strong> &#8211; $ 385</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp; <strong>Core i5-13600K</strong> &#8211; $ 320</p>
+
+
+
+<p>·&nbsp; &nbsp; &nbsp; &nbsp;<strong>Core i5-13600KF</strong> &#8211; $ 295</p>
+
+
+
+<p>Đến gần ngày ra mắt, giá CPU có thể tăng lên một chút so với giá niêm yết. Điều này cũng từng xảy ra với <strong>Core i9-12900K</strong> khi được bán với giá khoảng 650 USD trong thời điểm gần ngày ra mắt. Tuy nhiên, giá CPU sau đó cũng đã nhanh chóng hạ nhiệt sau vài tuần và trở về gần với giá gốc.</p>
+
+
+
+<p><strong>THÔNG SỐ KỸ THUẬT</strong></p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/7.png" alt=""/></figure>
+
+
+
+<p>Có thể nói Raptor Lake là một phiên bản nâng cấp của Alder Lake khi sử dụng cùng một loại node và cùng có kiến trúc dạng lai (hybrid). Về thông số kỹ thuật, Intel chủ yếu tập trung vào việc cải thiện số nhân và tốc độ xung nhịp, đồng thơi bộ nhớ đệm cũng được nâng cấp để cạnh tranh với đối thủ <strong>Ryzen 7000 series</strong>.</p>
+
+
+
+<p>Mặc dù số lượng nhân tăng lên so với Alder Lake, tuy nhiên Raptor Lake không bổ sung thêm nhân hiệu năng cao (nhân P) mà thay vào đó sẽ tăng số lượng nhân hiệu quả (nhân E). Điều này giúp con chip cải thiện khả năng đa nhiệm với các tác vụ nặng cùng lúc. Tuy nhiên, nhân E lại không hỗ trợ Siêu phân luồng (Hyperthreading), chẳng hạn Core i9-13900K có tới 24 nhân nhưng cũng chỉ có 32 luồng.</p>
+
+
+
+<p>Tốc độ xung nhịp của Raptor Lake cũng tăng lên đáng kể đúng như những thông tin đồn đại trước đó. <strong>CPU flagship</strong> Core i9-13900K đạt mức xung nhịp đơn nhân lên tơi <strong>5,8 GHz</strong>. Trước đó, Intel đã gây sốc khi tiết lộ một bản demo của Raptor Lake có thể đạt mức xung nhịp lên tới <strong>8 GHz</strong> với khả năng ép xung LN2 cực mạnh. Thậm chí đội Xanh cho biết Raptor Lake còn có thể đạt mức xung nhịp cao hơn nếu dàn PC có cung cấp đủ nguồn điện và có một bộ tản nhiệt đủ lớn.</p>
+
+
+
+<p>Tuy nhiên, sự nâng cấp đáng chú ý nhất của Raptor Lake lại là bộ nhớ cache. So với Alder Lake, con chip mới của Intel có bộ nhớ cache L2 lớn hơn gấp đôi. Điều này có thể tạo ra một sự cải thiện lớn về hiệu năng trong các tựa game cần bộ nhớ cache nhiều như Far Cry 6.</p>
+
+
+
+<p>Đương nhiên, với sức mạnh như vậy thì không có gì ngạc nhiên khi Raptor Lake cũng là “chiến thần” ngốn điện. Dự kiến mức <strong>TDP</strong> của Raptor Lake bản Core i9 và Core i7 sẽ tăng lên <strong>12W</strong> so với Alder Lake, còn con số này với Core i5 là <strong>31W</strong>.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/1.png" alt=""/></figure>
+
+
+
+<p><strong>KIẾN TRÚC</strong></p>
+
+
+
+<p>Như đã nói ở trên, Raptor Lake có kiến trúc rất giống với Alder Lake. Cả hai đều sử dụng quy trình sản xuất Intel 7 và có cấu trúc dạng lai. Các nhân được chia thành nhân hiệu năng cao (nhân P) và nhân hiệu quả (nhân E) để tăng hiệu năng đa nhiệm mà không đòi hỏi mức điện năng tiêu thụ và mức nhiệt quá cao.</p>
+
+
+
+<p>Theo những tin đồn hiện tại, dự kiến Raptor Lake sẽ giữ lại các nhân <strong>Gracemont</strong> làm nhân <strong>E</strong> giống như Alder Lake và tăng số lượng nhân. Tuy nhiên, nhân <strong>P</strong> sẽ sử dụng nhân<strong> Raptor Cove</strong> mới thay cho nhân <strong>Golden Cove</strong>. Theo Intel, thiết kế mới sẽ cung cấp một sự cải thiện đáng kể về tốc độ đường truyền.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/5.png" alt=""/></figure>
+
+
+
+<p>Trên thực tế, Intel cho biết họ cũng có thể tối ưu hóa điện áp của từng nhân, góp phần giúp Raptor Lake có thể đạt được mức xung nhịp cao hơn so với Alder Lake. Đồng thời, thiết kế mới cũng cung cấp tới 2MB bộ nhớ đệm L2, gấp đôi so với bộ nhớ của Alder Lake.</p>
+
+
+
+<p>Mặt khác, Intel dự kiến sẽ sử dụng một khuôn lớn hơn để có thể chứa được nhiều nhân E và bộ nhớ đệm, đồng thời cung cấp nhiều năng lượng hơn cho con chip. Các nhân được liên kết với nhau bằng sơ đồ mạng fabric lớn hơn và hỗ trợ tốc độ xung nhịp cao hơn tới <strong>900 MHz</strong> so với đời tiền nhiệm. Song song với nâng cấp phần cứng, Intel cho biết họ cũng đang tiếp tục tối ưu hóa các phần mềm tính năng như <strong>Intel Thread Director</strong>, giúp tăng cường khả năng phân luồng nhiệm vụ cho các nhân.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/4.png" alt=""/></figure>
+
+
+
+<p><strong>HIỆU NĂNG DỰ KIẾN</strong></p>
+
+
+
+<p>Việc các nhân P được cải thiện tới <strong>600 MHz</strong> xung nhịp giúp cho tốc độ khung hình trên giây (fps) của Raptor Lake tăng vọt. Một số dòng chip chỉ cải thiện khoảng 6% chỉ số fps khi chơi game. Tuy nhiên với những dòng CPU hàng đầu như Core i9-13900K, mức fps đã tăng lên tới 50% so với Core i9-12900K, một con số cực kỳ ấn tượng.</p>
+
+
+
+<p>Với sức mạnh gaming được cải thiện đáng kể, Core i9-13900K dễ dàng đánh bại <strong>Ryzen AMD Ryzen 9 5950X</strong> về tốc độ khung hình trên giây. Tuy nhiên, cũng cần phải lưu ý thêm rằng trong rất nhiều tựa game, chỉ số fps Core i9-13900K cũng chỉ ngang ngửa so với <strong>AMD Ryzen 7 5800X3D</strong>, quái vật gaming của đội Đỏ với kiến trúc 3D V-Cache độc đáo. Với việc dòng Ryzen 7000 còn tiếp tục nâng cấp hơn nữa, nhiều khả năng Intel vẫn sẽ gặp khó trong việc chiếm ngôi vương CPU gaming của AMD.</p>
+
+
+
+<p>Xét về hiệu năng công việc thì Intel Core i9 13900K rõ ràng vẫn có lợi thế hơn so với AMD dựa vào số lượng nhân vượt trội. </p>
+
+
+
+<p>Trong một số tác vụ, Intel cho biết 13900K nhanh hơn tới 70% so với 12900K. Đồng thời, 13900K cũng được trang bị khả năng tăc tốc đặc biệt trong các tác vụ Photoshop và Blender, giúp cải thiện khoảng 30% hiệu năng trong các công việc liên quan đến sáng tạo nội dung.</p>
+
+
+
+<p>Đương nhiên, những con số trên vẫn chỉ thể hiện sức mạnh của Core i9-13900K, con chip mạnh nhất trong dòng Raptor Lake. Chúng ta cần đánh giá nhiều CPU trên nhiều phân khúc để biết rõ sức mạnh thực sự của CPU gen 13 tới từ Intel.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/Intel%20Raptor%20Lake-1/3.png" alt=""/></figure>
+
+
+
+<p><strong>BO MẠCH CHỦ VÀ CHIPSET</strong></p>
+
+
+
+<p>Một tin tốt với những ai đang sử dụng Alder Lake và muốn nâng cấp CPU là việc Intel sẽ giữ nguyên bo mạch chủ<strong> LGA1700 </strong>với Raptor Lake. Hầu hết các bo mạch chủ <strong>Z690</strong> đều sẽ hỗ trợ CPU gen 13, đồng thời Intel cũng sẽ ra mắt bo mạch chủ mới <strong>Z790</strong> cùng thời điểm mở bán Raptor Lake vào tháng 10 tới.</p>
+
+
+
+<p>Ngoài ra, bất kể sử dụng chipset gì thì người dùng cũng có thể sử dụng bộ nhớ <strong>DDR4</strong> hoặc<strong> DDR5</strong>, miễn là bo mạch chủ có hỗ trợ loại bộ nhớ đó. Hầu hết dòng bo mạch chủ Z690 vẫn hỗ trợ Z690, tuy nhiên dòng <strong>B-series</strong> và <strong>H-series</strong> thì không. Vì vậy, hãy cẩn thận khi lựa chọn bo mạch chủ cho con chip mới của mình.</p>
+
+
+
+<p>Đừng quên ghé thăm <a href="https://www.tncstore.vn/tin-tuc"><strong>TNC News</strong></a>, http://rynxhn.github.io/news/ để cập nhật tin tức và những mẹo bổ ích về các sản phẩm công nghệ nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://rynxhn.github.io/2022/10/08/xung-nhip-5-8-ghz-hieu-nang-cuc-khung-tat-tan-tat-moi-thu-can-biet-ve-intel-raptor-lake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Asus Gaming x LOL: Tặng Skin Morgana Ác Nữ Khắc Tinh + tướng</title>
+		<link>http://rynxhn.github.io/2022/10/08/asus-gaming-x-lol-tang-skin-morgana-ac-nu-khac-tinh-tuong/</link>
+					<comments>http://rynxhn.github.io/2022/10/08/asus-gaming-x-lol-tang-skin-morgana-ac-nu-khac-tinh-tuong/#respond</comments>
+		
+		<dc:creator><![CDATA[rynx]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 06:43:32 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://rynxhn.github.io/?p=110</guid>
+
+					<description><![CDATA[ASUS x LoL 10th birthday promotion “Mua bàn phím, chuột, tai nghe ASUS bất kỳ...<div class="multi-store-site-button"><a href="http://rynxhn.github.io/2022/10/08/asus-gaming-x-lol-tang-skin-morgana-ac-nu-khac-tinh-tuong/" class="multi-store-primary-button">Read More <i class="fa fa-long-arrow-right"></i></a></div>]]></description>
+										<content:encoded><![CDATA[
+<p><em>ASUS x LoL 10th birthday promotion “Mua bàn phím, chuột, tai nghe ASUS bất kỳ tặng Skin Morgana Ác Nữ Khắc Tinh + tướng”&nbsp; 28/9 đến 15/10.</em></p>
+
+
+
+<p>1. Thời gian khuyến mãi:&nbsp;</p>
+
+
+
+<p>Bất kì hóa đơn mua hàng, phiếu thu hoặc phiếu xuất kho có giá trị&nbsp; từ ngày <strong>28/09/2022</strong> đến <strong>15/10/2022</strong> hoặc cho đến khi hết quà</p>
+
+
+
+<p>2. Sản phẩm áp dụng và quà tặng:&nbsp;</p>
+
+
+
+<p>Tặng skin Morgana Ác Nữ Khắc Tinh + tướng khi khách hàng mua một trong các sản phẩm sau:&nbsp;</p>
+
+
+
+<p>&gt;&gt;&gt; <a href="http://tncstore.vn/chuot-gaming.html?manufacturer_id=22" target="_blank" rel="noreferrer noopener">Chuột</a> TUF/ROG</p>
+
+
+
+<p>&gt;&gt;&gt; <a href="https://www.tncstore.vn/ban-phim-co.html?manufacturer_id=22" target="_blank" rel="noreferrer noopener">Bàn phím</a>TUF/ROG &gt;&gt;&gt; <a href="https://www.tncstore.vn/tai-nghe-choi-game.html?manufacturer_id=22" target="_blank" rel="noreferrer noopener">Tai nghe</a>TUF/ROG</p>
+
+
+
+<p>3. Cách thức nhận quà:&nbsp;</p>
+
+
+
+<p>Khách hàng nhận thẻ cào code skin Morgana Ác Nữ Khắc Tinh + tướng trực tiếp tại cửa hàng với hóa đơn mua hàng các sản phẩm quy định.</p>
+
+
+
+<p>Lưu ý: Số lượng code có hạn 30 khách hàng đầu tiên!</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.tncstore.vn/image/catalog/Tin%20t%E1%BB%A9c%20website/asus%20lol/1.png" alt=""/></figure>
+
+
+
+<p>4. Cách sử dụng code:&nbsp;</p>
+
+
+
+<p>Sau khi nhận được code trong email, EU có thể dùng code để đổi lấy skin tại link https://code.lienminh.garena.vn/&nbsp;</p>
+
+
+
+<p>Các lưu ý khác:</p>
+
+
+
+<p>&#8211;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chương trình không áp dụng đồng thời với các chương trình khuyến mãi khác.</p>
+
+
+
+<p>&#8211;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Quà tặng không có giá trị quy đổi thành tiền mặt hoặc các giá trị khác tương đương.</p>
+
+
+
+<p>&#8211;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hóa đơn/ phiếu thu/ phiếu xuất kho phải có con dấu của cửa hàng bán lẻ.</p>
+
+
+
+<p>&#8211;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chương trình chỉ dành cho khách hàng mua lẻ từ cửa hàng, tất cả hóa đơn từ nhà phân phối đều không được tham gia chương trình khuyến mãi này.</p>
+
+
+
+<p>&#8211;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Trong trường hợp cần thiết nhằm bảo đảm quyền lợi khách hàng, phía ASUS sẽ cần thêm những thông tin khác để xác định khách mua hàng là chính xác như: hóa đơn đỏ, giấy tờ tùy thân có ảnh đại diện&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://rynxhn.github.io/2022/10/08/asus-gaming-x-lol-tang-skin-morgana-ac-nu-khac-tinh-tuong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
